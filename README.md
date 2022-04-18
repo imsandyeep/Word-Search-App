@@ -1,4 +1,4 @@
-# Android Word Quest
+# Android Word Search App
 
 Find listed words in grid of letters in horizontal, vertical and diagonal direction. customize grid size, select different game mode and other settings.
 
